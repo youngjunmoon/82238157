@@ -102,7 +102,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
                     <image>
-                        <name>cepgstapacr.azurecr.io/82238157</name>
+                        <name>ceappacr.azurecr.io/cloudsample</name>
                     </image>
                 </configuration>
 			</plugin>
