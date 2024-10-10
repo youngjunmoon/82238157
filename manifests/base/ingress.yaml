@@ -12,7 +12,7 @@ spec:
       - path: /
         backend:
           service:
-            name: troubleshooting
+            name: my-troubleshooting
             port:
               number: 8080
         pathType: Prefix
