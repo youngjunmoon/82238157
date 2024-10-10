@@ -16,3 +16,5 @@ images:
   newTag: "202410100615"
 - name: cepgbaseacr.azurecr.io/troubleshooting
   newTag: "202410090852"
+- name: cepgstapacr.azurecr.io/troubleshooting
+  newTag: "202410100621"
